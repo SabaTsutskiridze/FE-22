@@ -1,0 +1,861 @@
+/*
+	@name starbucks_landing_page_redesign__community_
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 2772px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 2772px;
+	height: 2137px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 2772px;
+	height: 2137px;
+	background:rgba(255,255,255,1);
+}
+
+
+#pngitem_47020_2 {
+	top: 10px;
+	left: 1279px;
+	width: 515.16px;
+	height: 425.05px;
+}
+
+#starbucks_redesign {
+	top: 162px;
+	left: 144px;
+	width: 1152px;
+	height: 700px;
+}
+
+#c2 {
+	top: 528px;
+	left: 72px;
+	width: 321px;
+	height: 321px;
+	-ms-border-radius: 160.5px / 160.5px;
+	-o-border-radius: 160.5px / 160.5px;
+	-moz-border-radius: 160.5px / 160.5px;
+	-webkit-border-radius: 160.5px / 160.5px;
+	border-radius: 160.5px / 160.5px;
+	background:rgba(33.19,156.19,106.99,1);
+}
+
+
+#c1 {
+	top: 50px;
+	left: 937px;
+	width: 321px;
+	height: 321px;
+	-ms-border-radius: 160.5px / 160.5px;
+	-o-border-radius: 160.5px / 160.5px;
+	-moz-border-radius: 160.5px / 160.5px;
+	-webkit-border-radius: 160.5px / 160.5px;
+	border-radius: 160.5px / 160.5px;
+	background:rgba(33.19,156.19,106.99,1);
+}
+
+#title {
+	top: 139px;
+	left: 316px;
+	width: 520px;
+	height: 208px;
+}
+
+#good_coffee {
+	top: 0px;
+	left: 0px;
+	width: 570px;
+	height: 186px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 90px;
+	font-weight: bold;
+	text-align: left;
+	color:#00613A;
+}
+
+
+#good_moods {
+	top: 85px;
+	left: 1px;
+	width: 569px;
+	height: 186px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 90px;
+	font-weight: bold;
+	text-align: left;
+	-ms-text-shadow:0px 6px 9px rgba(0,0,0,0.1);
+	-o-text-shadow:0px 6px 9px rgba(0,0,0,0.1);
+	-webkit-text-shadow:0px 6px 9px rgba(0,0,0,0.1);
+	-moz-text-shadow:0px 6px 9px rgba(0,0,0,0.1);
+	text-shadow:0px 6px 9px rgba(0,0,0,0.1);
+	color:#FFFFFF;
+}
+
+#img {
+	top: 309px;
+	left: 182px;
+	width: 798.78px;
+	height: 506px;
+}
+#cups {
+	top: 0px;
+	left: 159px;
+	width: 532.55px;
+	height: 506px;
+}
+
+#ellipse_3 {
+	top: 313px;
+	left: 42px;
+	width: 136px;
+	height: 72px;
+	-ms-border-radius: 68px / 36px;
+	-o-border-radius: 68px / 36px;
+	-moz-border-radius: 68px / 36px;
+	-webkit-border-radius: 68px / 36px;
+	border-radius: 68px / 36px;
+	
+	-ms-transform:rotate(-6.41deg);
+	-o-transform:rotate(-6.41deg);
+	-webkit-transform:rotate(-6.41deg);
+	-moz-transform:rotate(-6.41deg);
+	transform:rotate(-6.41deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#ellipse_4 {
+	opacity:0.5;
+	top: 334px;
+	left: 353px;
+	width: 205.91px;
+	height: 104.18px;
+	-ms-border-radius: 102.95px / 52.09px;
+	-o-border-radius: 102.95px / 52.09px;
+	-moz-border-radius: 102.95px / 52.09px;
+	-webkit-border-radius: 102.95px / 52.09px;
+	border-radius: 102.95px / 52.09px;
+	
+	-ms-transform:rotate(-104.54deg);
+	-o-transform:rotate(-104.54deg);
+	-webkit-transform:rotate(-104.54deg);
+	-moz-transform:rotate(-104.54deg);
+	transform:rotate(-104.54deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#group_5_1 {
+	top: 0px;
+	left: 0px;
+	width: 490px;
+	height: 506px;
+}
+
+#c2_ek1 {
+	top: 195px;
+	left: 15px;
+	width: 140.16px;
+	height: 179.06px;
+}
+
+#ellipse_5 {
+	opacity:0.8;
+	top: 117px;
+	left: 51px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-148.29deg);
+	-o-transform:rotate(-148.29deg);
+	-webkit-transform:rotate(-148.29deg);
+	-moz-transform:rotate(-148.29deg);
+	transform:rotate(-148.29deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#ellipse_6 {
+	opacity:0.8;
+	top: 59px;
+	left: 53px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-149.42deg);
+	-o-transform:rotate(-149.42deg);
+	-webkit-transform:rotate(-149.42deg);
+	-moz-transform:rotate(-149.42deg);
+	transform:rotate(-149.42deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#ellipse_7 {
+	opacity:0.8;
+	top: 162px;
+	left: 78px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-162.02deg);
+	-o-transform:rotate(-162.02deg);
+	-webkit-transform:rotate(-162.02deg);
+	-moz-transform:rotate(-162.02deg);
+	transform:rotate(-162.02deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#beans {
+	top: 54px;
+	left: -12px;
+	width: 164.37px;
+	height: 72.11px;
+}
+
+#c1_ek1 {
+	top: 170px;
+	left: 764px;
+	width: 176.55px;
+	height: 159.47px;
+}
+
+#ellipse_5_ek1 {
+	opacity:0.6;
+	top: 47px;
+	left: -104px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-178.85deg);
+	-o-transform:rotate(-178.85deg);
+	-webkit-transform:rotate(-178.85deg);
+	-moz-transform:rotate(-178.85deg);
+	transform:rotate(-178.85deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#ellipse_6_ek1 {
+	opacity:0.6;
+	top: 17px;
+	left: -49px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-48.39deg);
+	-o-transform:rotate(-48.39deg);
+	-webkit-transform:rotate(-48.39deg);
+	-moz-transform:rotate(-48.39deg);
+	transform:rotate(-48.39deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#ellipse_7_ek1 {
+	opacity:0.6;
+	top: 111px;
+	left: -79px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-25.53deg);
+	-o-transform:rotate(-25.53deg);
+	-webkit-transform:rotate(-25.53deg);
+	-moz-transform:rotate(-25.53deg);
+	transform:rotate(-25.53deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#beans_ek1 {
+	top: 71px;
+	left: -217px;
+	width: 104.2px;
+	height: 144.72px;
+}
+
+
+#scroll {
+	top: 652px;
+	left: 549px;
+	width: 16.62px;
+	height: 24px;
+}
+
+#header {
+	top: 45px;
+	left: 71px;
+	width: 1011px;
+	height: 45px;
+}
+
+#logo {
+	top: 0px;
+	left: 0px;
+	width: 44px;
+	height: 45px;
+}
+
+#menu {
+	top: 15px;
+	left: 244px;
+	width: 474px;
+	height: 15px;
+}
+
+#home {
+	top: 0px;
+	left: 0px;
+	width: 42px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#000000;
+}
+
+
+#menu_ek1 {
+	top: 0px;
+	left: 101px;
+	width: 41px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#000000;
+}
+
+
+#rewards {
+	top: 0px;
+	left: 201px;
+	width: 56px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#000000;
+}
+
+
+#gift_cards {
+	top: 0px;
+	left: 316px;
+	width: 64px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#000000;
+}
+
+
+#stores {
+	top: 0px;
+	left: 439px;
+	width: 46px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#000000;
+}
+
+#btn {
+	top: 5px;
+	left: 918px;
+	width: 93px;
+	height: 35px;
+}
+
+#signin {
+	top: 10px;
+	left: 30px;
+	width: 44px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#FFFFFF;
+}
+
+
+#pngitem_47020_2_ek1 {
+	top: 724px;
+	left: -374px;
+	width: 646px;
+	height: 533px;
+}
+
+#starbucks_redesign_ek1 {
+	top: 298px;
+	left: 4308px;
+	width: 1152px;
+	height: 700px;
+}
+
+#c2_ek2 {
+	top: 528px;
+	left: 72px;
+	width: 321px;
+	height: 321px;
+	-ms-border-radius: 160.5px / 160.5px;
+	-o-border-radius: 160.5px / 160.5px;
+	-moz-border-radius: 160.5px / 160.5px;
+	-webkit-border-radius: 160.5px / 160.5px;
+	border-radius: 160.5px / 160.5px;
+	background:rgba(33.19,156.19,106.99,1);
+}
+
+
+#c1_ek2 {
+	top: 50px;
+	left: 937px;
+	width: 321px;
+	height: 321px;
+	-ms-border-radius: 160.5px / 160.5px;
+	-o-border-radius: 160.5px / 160.5px;
+	-moz-border-radius: 160.5px / 160.5px;
+	-webkit-border-radius: 160.5px / 160.5px;
+	border-radius: 160.5px / 160.5px;
+	background:rgba(33.19,156.19,106.99,1);
+}
+
+#title_ek1 {
+	top: 139px;
+	left: 316px;
+	width: 520px;
+	height: 208px;
+}
+
+#good_coffee_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 570px;
+	height: 186px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 90px;
+	font-weight: bold;
+	text-align: left;
+	color:#00613A;
+}
+
+
+#good_moods_ek1 {
+	top: 85px;
+	left: 1px;
+	width: 569px;
+	height: 186px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 90px;
+	font-weight: bold;
+	text-align: left;
+	-ms-text-shadow:0px 6px 9px rgba(0,0,0,0.1);
+	-o-text-shadow:0px 6px 9px rgba(0,0,0,0.1);
+	-webkit-text-shadow:0px 6px 9px rgba(0,0,0,0.1);
+	-moz-text-shadow:0px 6px 9px rgba(0,0,0,0.1);
+	text-shadow:0px 6px 9px rgba(0,0,0,0.1);
+	color:#FFFFFF;
+}
+
+#img_ek1 {
+	top: 309px;
+	left: 182px;
+	width: 798.78px;
+	height: 506px;
+}
+#cups_ek1 {
+	top: 0px;
+	left: 159px;
+	width: 532.55px;
+	height: 506px;
+}
+
+#ellipse_3_ek1 {
+	top: 313px;
+	left: 42px;
+	width: 136px;
+	height: 72px;
+	-ms-border-radius: 68px / 36px;
+	-o-border-radius: 68px / 36px;
+	-moz-border-radius: 68px / 36px;
+	-webkit-border-radius: 68px / 36px;
+	border-radius: 68px / 36px;
+	
+	-ms-transform:rotate(-6.41deg);
+	-o-transform:rotate(-6.41deg);
+	-webkit-transform:rotate(-6.41deg);
+	-moz-transform:rotate(-6.41deg);
+	transform:rotate(-6.41deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#ellipse_4_ek1 {
+	opacity:0.5;
+	top: 334px;
+	left: 353px;
+	width: 205.91px;
+	height: 104.18px;
+	-ms-border-radius: 102.95px / 52.09px;
+	-o-border-radius: 102.95px / 52.09px;
+	-moz-border-radius: 102.95px / 52.09px;
+	-webkit-border-radius: 102.95px / 52.09px;
+	border-radius: 102.95px / 52.09px;
+	
+	-ms-transform:rotate(-104.54deg);
+	-o-transform:rotate(-104.54deg);
+	-webkit-transform:rotate(-104.54deg);
+	-moz-transform:rotate(-104.54deg);
+	transform:rotate(-104.54deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#group_5_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 490px;
+	height: 506px;
+}
+
+#c2_ek3 {
+	top: 195px;
+	left: 15px;
+	width: 140.16px;
+	height: 179.06px;
+}
+
+#ellipse_5_ek2 {
+	opacity:0.8;
+	top: 117px;
+	left: 51px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-148.29deg);
+	-o-transform:rotate(-148.29deg);
+	-webkit-transform:rotate(-148.29deg);
+	-moz-transform:rotate(-148.29deg);
+	transform:rotate(-148.29deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#ellipse_6_ek2 {
+	opacity:0.8;
+	top: 59px;
+	left: 53px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-149.42deg);
+	-o-transform:rotate(-149.42deg);
+	-webkit-transform:rotate(-149.42deg);
+	-moz-transform:rotate(-149.42deg);
+	transform:rotate(-149.42deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#ellipse_7_ek2 {
+	opacity:0.8;
+	top: 162px;
+	left: 78px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-162.02deg);
+	-o-transform:rotate(-162.02deg);
+	-webkit-transform:rotate(-162.02deg);
+	-moz-transform:rotate(-162.02deg);
+	transform:rotate(-162.02deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#beans_ek2 {
+	top: 54px;
+	left: -12px;
+	width: 164.37px;
+	height: 72.11px;
+}
+
+#c1_ek3 {
+	top: 170px;
+	left: 764px;
+	width: 176.55px;
+	height: 159.47px;
+}
+
+#ellipse_5_ek3 {
+	opacity:0.6;
+	top: 47px;
+	left: -104px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-178.85deg);
+	-o-transform:rotate(-178.85deg);
+	-webkit-transform:rotate(-178.85deg);
+	-moz-transform:rotate(-178.85deg);
+	transform:rotate(-178.85deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#ellipse_6_ek3 {
+	opacity:0.6;
+	top: 17px;
+	left: -49px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-48.39deg);
+	-o-transform:rotate(-48.39deg);
+	-webkit-transform:rotate(-48.39deg);
+	-moz-transform:rotate(-48.39deg);
+	transform:rotate(-48.39deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#ellipse_7_ek3 {
+	opacity:0.6;
+	top: 111px;
+	left: -79px;
+	width: 15.11px;
+	height: 4.53px;
+	-ms-border-radius: 7.56px / 2.27px;
+	-o-border-radius: 7.56px / 2.27px;
+	-moz-border-radius: 7.56px / 2.27px;
+	-webkit-border-radius: 7.56px / 2.27px;
+	border-radius: 7.56px / 2.27px;
+	
+	-ms-transform:rotate(-25.53deg);
+	-o-transform:rotate(-25.53deg);
+	-webkit-transform:rotate(-25.53deg);
+	-moz-transform:rotate(-25.53deg);
+	transform:rotate(-25.53deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#beans_ek3 {
+	top: 71px;
+	left: -217px;
+	width: 104.2px;
+	height: 144.72px;
+}
+
+
+#scroll_ek1 {
+	top: 652px;
+	left: 549px;
+	width: 16.62px;
+	height: 24px;
+}
+
+#header_ek1 {
+	top: 45px;
+	left: 71px;
+	width: 1011px;
+	height: 45px;
+}
+
+#logo_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 44px;
+	height: 45px;
+}
+
+#menu_ek2 {
+	top: 15px;
+	left: 244px;
+	width: 474px;
+	height: 15px;
+}
+
+#home_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 42px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#000000;
+}
+
+
+#menu_ek3 {
+	top: 0px;
+	left: 101px;
+	width: 41px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#000000;
+}
+
+
+#rewards_ek1 {
+	top: 0px;
+	left: 201px;
+	width: 56px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#000000;
+}
+
+
+#gift_cards_ek1 {
+	top: 0px;
+	left: 316px;
+	width: 64px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#000000;
+}
+
+
+#stores_ek1 {
+	top: 0px;
+	left: 439px;
+	width: 46px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#000000;
+}
+
+#btn_ek1 {
+	top: 5px;
+	left: 918px;
+	width: 93px;
+	height: 35px;
+}
+
+#signin_ek1 {
+	top: 10px;
+	left: 30px;
+	width: 44px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Manrope;
+	font-size: 11px;
+	text-align: left;
+	letter-spacing: 0.22px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
